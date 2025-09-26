@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "METAQARE Docs",
+  "name": "QSalud Docs",
   "colors": {
     "primary": "#0B2A61",
     "light": "#5CA9E6",
@@ -10,7 +10,7 @@
 
   "icons": { "library": "lucide" },
 
-  "favicon": "/logo/metaqare-favicon.png",
+  "favicon": "/logo/qsalud-favicon.png",
 
   "navigation": {
     "languages": [
@@ -18,7 +18,7 @@
         "language": "es",
         "groups": [
           {
-            "group": "Ecosistema MetaQare",
+            "group": "Ecosistema QSalud",
             "icon": "atom",
             "pages": [
               "es/index",
@@ -120,7 +120,7 @@
         "language": "en",
         "groups": [
           {
-            "group": "MetaQare Ecosystem",
+            "group": "QSalud Ecosystem",
             "icon": "atom",
             "pages": [
               "en/index",
@@ -221,15 +221,15 @@
     ],
     "global": {
       "anchors": [
-        { "anchor": "Sitio web / Website", "href": "https://metaqare.ai", "icon": "globe" },
-        { "anchor": "Soporte / Support", "href": "mailto:soporte@metaqare.ai", "icon": "lifebuoy" }
+        { "anchor": "Sitio web / Website", "href": "https://qsalud.com", "icon": "globe" },
+        { "anchor": "Soporte / Support", "href": "mailto:sat@qsalud.com", "icon": "lifebuoy" }
       ]
     }
   },
 
   "logo": {
-    "light": "/logo/Metaqare.png",
-    "dark": "/logo/Metaqare.png"
+    "light": "/logo/qsalud-logo.png",
+    "dark": "/logo/qsalud-white.png"
   },
 
   "navbar": {
