@@ -1,18 +1,14 @@
-# Manual del Profesional Médico | MetaQare
+# Manual del Profesional Médico | QSalud
 
-Este manual proporciona a los profesionales médicos una guía práctica y estratégica para utilizar MetaQare como plataforma clínica centralizada. Diseñado para médicos que operan en el entorno digital (ya sea en red Qsalud o integrados desde aseguradoras), este ecosistema combina agilidad, trazabilidad clínica y eficiencia operativa a través de IA, blockchain y videomedicina.
-...
+Este manual proporciona a los profesionales médicos una guía práctica y estratégica para utilizar QSalud como plataforma clínica centralizada. Diseñado para médicos que operan en el entorno digital (ya sea en red Qsalud o integrados desde aseguradoras), este ecosistema combina agilidad, trazabilidad clínica y eficiencia operativa a través de IA, blockchain y videomedicina. ...
 
 ## Acceso e Inicio de Sesión
 
-•	Acceso desde: https://qsalud.com o URL institucional personalizada 
-
+•	Acceso desde: https://qsalud.com o URL institucional personalizada
 
 •	Inicio de sesión mediante email o cuenta federada (Google/Facebook)
 
-
 •	Sistema de autenticación de doble factor (2FA) para firma de recetas y documentos
-
 
 ![Pantalla de login del médico con cuenta federada](assets/login-medico.png)
 
@@ -22,22 +18,15 @@ Este manual proporciona a los profesionales médicos una guía práctica y estra
 
 Una vez dentro del sistema, el médico puede configurar:
 
-
 •	Datos personales y profesionales
-
 
 •	Número de colegiado, especialidad y subespecialidades
 
-
 •	Documentación obligatoria: seguro de responsabilidad civil, certificados
-
 
 •	Idiomas, disponibilidad horaria y preferencias de consulta
 
-
-MetaQare garantiza que solo médicos habilitados y colegiados acceden a la funcionalidad clínica avanzada.
-
-
+QSalud garantiza que solo médicos habilitados y colegiados acceden a la funcionalidad clínica avanzada.
 
 ![Interfaz de edición de perfil y subida de documentación](assets/perfil-medico.png)
 
@@ -47,18 +36,13 @@ MetaQare garantiza que solo médicos habilitados y colegiados acceden a la funci
 
 Desde el panel de configuración:
 
-
 •	Definición de horarios semanales y excepciones (festivos, bloqueos)
-
 
 •	Personalización por modalidad: videollamada, telefónica o chat
 
-
 •	Activación o desactivación de fechas especiales
 
-
 El sistema sincroniza la agenda automáticamente con las citas agendadas desde el portal del paciente o desde aseguradoras integradas.
-
 
 ![Agenda médica con días activos, festivos y descansos](assets/configurar-agenda.png)
 
@@ -68,20 +52,16 @@ El sistema sincroniza la agenda automáticamente con las citas agendadas desde e
 
 Desde el panel principal, el profesional accede a:
 
-
 •	Visión general de todas las consultas (hoy, semana, mes)
-
 
 •	Estado de cada consulta: completada, cancelada, pendiente, no presentada
 
-
 •	Ingresos generados y pagos procesados (segmentados por compañía o canal)
-
 
 •	Estadísticas personales (NPS, tiempo medio de consulta, especialidades más frecuentes)
 
-
 “El 65% de los médicos en Europa consideran que su sistema actual digital está fragmentado y poco eficiente” — McKinsey Health Systems Report, 2023
+
 ![Panel con citas, ingresos y KPIs](assets/panel-medico.png)
 
 ...
@@ -90,34 +70,23 @@ Desde el panel principal, el profesional accede a:
 
 Cada consulta se ejecuta desde un entorno clínico virtual con:
 
-
 •	Chat médico/paciente y posibilidad de chat interno (coordinadores, especialistas)
-
 
 •	Videollamada encriptada con opción de compartir documentos en tiempo real
 
-
 •	Acceso inmediato a la historia clínica del paciente
-
 
 •	Generación automática del informe clínico (editable)
 
-
 •	Posibilidad de transferir la consulta o escalar a segundo nivel
 
-
-
-MetaQare incorpora un Asistente IA Clínico que:
-
+QSalud incorpora un Asistente IA Clínico que:
 
 •	Resume automáticamente historias clínicas largas
 
-
 •	Sugiere alertas clínicas o contraindicaciones
 
-
 •	Propone tratamientos estándar validados
-
 
 ![Interfaz de videoconsulta con historia clínica y chat](assets/portal-videoconsulta.png)
 
@@ -127,18 +96,13 @@ MetaQare incorpora un Asistente IA Clínico que:
 
 •	Receta electrónica homologada para prescripción inmediata
 
-
 •	Integración con REMPE (plataforma nacional de receta electrónica privada)
-
 
 •	Envío automático al paciente tras la firma digital
 
-
 •	Generación de hoja de medicación activa en PDF
 
-
 •	Firma electrónica avanzada eIDAS
-
 
 “La automatización de la receta médica reduce en un 60% los errores de transcripción y mejora la adherencia terapéutica” — Deloitte eHealth Europe, 2024
 
@@ -148,17 +112,13 @@ MetaQare incorpora un Asistente IA Clínico que:
 
 ## Informes Médicos Inteligentes
 
-•	Plantilla configurable por especialidad 
+•	Plantilla configurable por especialidad
 
+•	Prellenado automático con IA generativa (editable por el médico)
 
-•	Prellenado automático con IA generativa (editable por el médico) 
+•	Firma y archivo en el historial clínico
 
-
-•	Firma y archivo en el historial clínico 
-
-
-•	Descarga inmediata por el paciente 
-
+•	Descarga inmediata por el paciente
 
 ![Borrador de informe clínico asistido por IA](assets/informe-medico-ia.png)
 
@@ -166,26 +126,19 @@ MetaQare incorpora un Asistente IA Clínico que:
 
 ## Gestión de Ingresos y Remuneración
 
-Cada médico dispone de un espacio donde: 
+Cada médico dispone de un espacio donde:
 
+•	Se visualizan sus ingresos por acto médico, compañía y mes
 
-•	Se visualizan sus ingresos por acto médico, compañía y mes 
-
-
-•	Se consulta el estado de pagos (abonado, pendiente, programado) 
-
+•	Se consulta el estado de pagos (abonado, pendiente, programado)
 
 •	Puede descargar justificantes para IRPF y autónomos
 
-
 Para médicos en red Qsalud, el sistema muestra también:
-
 
 •	Citas asignadas automáticamente
 
-
-•	Ingresos variables por rendimiento (KPI) 
-
+•	Ingresos variables por rendimiento (KPI)
 
 ![Resumen de ingresos por consulta y canal](assets/ingresos-medico.png)
 
@@ -193,20 +146,15 @@ Para médicos en red Qsalud, el sistema muestra también:
 
 ## Indicadores de Desempeño Profesional (KPI)
 
-•	NPS promedio mensual (valoración paciente) 
+•	NPS promedio mensual (valoración paciente)
 
+•	Tiempo medio por consulta
 
-•	Tiempo medio por consulta 
+•	% de resolución sin derivación
 
+•	% de seguimiento programado
 
-•	% de resolución sin derivación 
-
-
-•	% de seguimiento programado 
-
-
-•	Ratio de asistencia efectiva vs ausencias 
-
+•	Ratio de asistencia efectiva vs ausencias
 
 ![Tabla con KPIs clínicos y ratios de resolución](assets/kpi-profesional.png)
 
@@ -214,34 +162,27 @@ Para médicos en red Qsalud, el sistema muestra también:
 
 ## Seguridad y Buenas Prácticas Clínicas
 
-•	Firma electrónica solo habilitada con número verificado 
+•	Firma electrónica solo habilitada con número verificado
 
+•	Acceso restringido a médicos con documentación validada
 
-•	Acceso restringido a médicos con documentación validada 
+•	Historial clínico trazable, con logs firmados
 
-
-•	Historial clínico trazable, con logs firmados 
-
-
-•	Consentimientos automáticos registrados por paciente 
-
+•	Consentimientos automáticos registrados por paciente
 
 ![Confirmación 2FA para firma de receta](assets/autenticacion-doble.png)
 
 ...
 
 ## Soporte y Formación Continua
-•	Guías interactivas dentro del portal 
 
+•	Guías interactivas dentro del portal
 
-•	Canal de soporte 24h para incidencias técnicas o clínicas 
+•	Canal de soporte 24h para incidencias técnicas o clínicas
 
-
-•	Webinars mensuales con actualización clínica y normativa 
-
+•	Webinars mensuales con actualización clínica y normativa
 
 •	Acceso a equipo médico coordinador para resolución de casos
-
 
 ![Acceso a soporte médico y formación continua](assets/soporte-formacion.png)
 

@@ -1,6 +1,6 @@
 # 5 Manual ADMINISTRADOR Qsalud
 
-Bienvenido/a a la sección **5_MANUAL_ADMINISTRADOR_Qsalud** de la plataforma **MetaQare**, con aplicación práctica en Qsalud. Aquí encontrarás documentación detallada, guías paso a paso y contenidos visuales.
+Bienvenido/a a la sección **5_MANUAL_ADMINISTRADOR_Qsalud** de la plataforma **QSalud**, con aplicación práctica en Qsalud. Aquí encontrarás documentación detallada, guías paso a paso y contenidos visuales.
 
 ---
 
