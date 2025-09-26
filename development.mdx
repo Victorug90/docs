@@ -1,0 +1,38 @@
+---
+title: "Desarrollo y Pruebas Locales"
+description: "Guía para contribuir y visualizar los manuales de MetaQare en modo local."
+---
+
+<Info>
+  **Requisitos previos:**
+  - Node.js versión 19 o superior
+  - Un repositorio de documentación que incluya el archivo `docs.json`
+</Info>
+
+Sigue estos pasos para instalar y ejecutar la documentación de MetaQare en tu equipo:
+
+<Steps>
+  <Step title="Instalar Mintlify CLI">
+    Abre tu terminal y ejecuta:
+
+    ```bash
+    npm i -g mint
+    ```
+  </Step>
+  <Step title="Previsualizar localmente">
+    Dirígete a la carpeta donde está tu archivo `docs.json` y ejecuta:
+
+    ```bash
+    mint dev
+    ```
+
+    Podrás ver la documentación local en `http://localhost:3000`
+  </Step>
+</Steps>
+
+## Cambiar el puerto
+
+Por defecto, Mintlify utiliza el puerto 3000. Puedes cambiarlo con el flag `--port`, por ejemplo:
+
+```bash
+mint dev --port 3333
